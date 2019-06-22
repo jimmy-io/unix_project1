@@ -1,3 +1,4 @@
-# UNIX_Workbench_project1 =
+# UNIX_Workbench_project1
 ## This file was created on
-## Fri Jun 21 16:58:31 DST 2019
+## Fri Jun 21 17:20:05 DST 2019
+## The number of lines of code in 'guessinggame.sh' is
